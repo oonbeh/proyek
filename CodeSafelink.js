@@ -18,7 +18,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*4)+ 1);var xxx=null;
+{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*3)+ 1);var xxx=null;
 if(x=="1"){xxx="2017/04/ways-to-get-cheapest-health-insuranc.html"}
 if(x=="2"){xxx="/2017/04/google-drive-cloud.html"}
 if(x=="3"){xxx="/2017/04/stress-eating-helps.html"}a_to_ve[i].href="https://linkdownloadid.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}

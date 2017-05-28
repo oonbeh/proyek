@@ -18,23 +18,20 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 {a_to_vh=true;}
 j++;}
 if(a_to_vh==false)
-{var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*10)+ 1);
-var xxx=null;
-if(x=="1"){xxx="inilah-13-manfaat-luar-biasa-air-kelapa.html"}
-if(x=="2"){xxx="inilah-7-ciri-istri-pengundang-rezeki.html"}
-if(x=="3"){xxx="18-insane-but-true-things-about-car.html"}
-if(x=="4"){xxx="how-business-software-isn-as-bad-as-you.html"}
-if(x=="5"){xxx="what-experts-are-saying-about-healthy.html"}
-if(x=="6"){xxx="the-oddest-place-you-will-find-modern.html"}
-if(x=="7"){xxx="how-to-generate-passive-income-with.html"}
-if(x=="8"){xxx="global-internet-marketing.html"}
-if(x=="9"){xxx="dating-advice-for-men-from-biological.html"}
-if(x=="10"){xxx="how-to-write-business-to-business.html"}a_to_ve[i].href="https://safegoto.blogspot.com/2017/05/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+{var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*10)+ 1);var xxx=null;
+if(x=="1"){xxx="/2017/05/inilah-13-manfaat-luar-biasa-air-kelapa.html"}
+if(x=="2"){xxx="/2017/05/inilah-7-ciri-istri-pengundang-rezeki.html"}
+if(x=="3"){xxx="/2017/05/18-insane-but-true-things-about-car.html"}
+if(x=="4"){xxx="/2017/05/how-business-software-isn-as-bad-as-you.html"}
+if(x=="5"){xxx="/2017/05/what-experts-are-saying-about-healthy.html"}
+if(x=="6"){xxx="/2017/05/the-oddest-place-you-will-find-modern.html"}
+if(x=="7"){xxx="/2017/05/how-to-generate-passive-income-with.html"}
+if(x=="8"){xxx="/2017/05/global-internet-marketing.html"}
+if(x=="9"){xxx="/2017/05/dating-advice-for-men-from-biological.html"}
+if(x=="10"){xxx="/2017/05/how-to-write-business-to-business.html"}a_to_ve[i].href="https://safegoto.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-auto_safelink();
